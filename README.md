@@ -5,11 +5,11 @@ scRNAseq reanalysis from Ke2024 (EGAS0000000382) and Adam2020 (GSE136831)
 .
 ├── Adams2022_IPF
 │   ├── analysis
-│   │  ├── notebooks
-│   │  └── plots
+│   │   ├── notebooks
+│   │   │   ├── nb01_preprocessing_gene_expression.ipynb
+│   │   │   └── nb02_signature.ipynb
+│   │   └── plots
 │   └── data
-
-
 └── Ke2024_IBD
     ├── analysis
     │   ├── notebooks
@@ -121,13 +121,23 @@ env is norm_scRNAseq<br>
 ## 3. analysis/notebooks
 
 ### nb01_gene_expression_signature.ipynb
+
+TLR4 and LY96 expression <br>
+gene signature of TLR signaling pathway
+
 <br>
 
 # Adams2020_IPF
 
-## 1. preprocessing
+## 1. analysis
 
+### nb01_preprocessing_gene_expression.ipynb
 
+TLR4 and LY96 expression
+
+### nb02_signature.ipynb
+
+gene signature of TLR signaling pathway
 
 <br><br>
 

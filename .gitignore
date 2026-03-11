@@ -4,4 +4,5 @@ Ke2024_IBD/preprocessing/plots
 Ke2024_IBD/preprocessing/rank*
 Ke2024_IBD/preprocessing/notebooks/*.csv
 Ke2024_IBD/analysis/plots
-
+Adams2020_IPF/data
+Adams2020_IPF/analysis/plots
