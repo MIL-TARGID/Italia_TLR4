@@ -1,0 +1,7 @@
+Ke2024_IBD/data
+Ke2024_IBD/preprocessing/adata
+Ke2024_IBD/preprocessing/plots
+Ke2024_IBD/preprocessing/rank*
+Ke2024_IBD/preprocessing/notebooks/*.csv
+Ke2024_IBD/analysis/plots
+
