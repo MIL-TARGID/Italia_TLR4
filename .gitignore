@@ -6,3 +6,6 @@ Ke2024_IBD/preprocessing/notebooks/*.csv
 Ke2024_IBD/analysis/plots
 Adams2020_IPF/data
 Adams2020_IPF/analysis/plots
+Adams2020_IPF/analysis/deseq2
+Adams2020_IPF/analysis/propeller
+Adams2020_IPF/analysis/pseudobulk
